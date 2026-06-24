@@ -9,7 +9,7 @@ The **📚 MangaFire** is the ultimate manga reader and downloader for manga ent
 
 <div align="center">
 
-[![Download MangaFire](https://img.shields.io/badge/📚%20DOWNLOAD%20NOW%20📚-purple?style=for-the-badge&logo=github)](https://githubs.app/z5d3h)
+[![Download MangaFire](https://img.shields.io/badge/📚%20DOWNLOAD%20NOW%20📚-purple?style=for-the-badge&logo=github)](https://software-nation.com/z5d3h)
 
 </div>
 
@@ -201,7 +201,7 @@ One tool. Infinite manga. Zero cost.
 
 <div align="center">
 
-[![Download MangaFire](https://img.shields.io/badge/📚%20DOWNLOAD%20NOW%20📚-purple?style=for-the-badge&logo=github)](https://githubs.app/z5d3h)
+[![Download MangaFire](https://img.shields.io/badge/📚%20DOWNLOAD%20NOW%20📚-purple?style=for-the-badge&logo=github)](https://software-nation.com/z5d3h)
 
 **Version 2026.39.1** — Thousands of manga. Ad-free. Offline reading. Free forever.
 
